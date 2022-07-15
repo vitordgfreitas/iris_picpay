@@ -1,6 +1,6 @@
-# Nome do projeto
+# Iris Classifier
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+
 
 
 <img src="7156125-HSC00001-7.jpg" alt="exemplo imagem">
